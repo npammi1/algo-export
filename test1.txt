@@ -1,2 +1,0 @@
-Nagesh testing Diff in git
-This line added for direct commit from working directory
